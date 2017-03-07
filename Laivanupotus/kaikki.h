@@ -1,0 +1,1 @@
+int kirjaimeksi(char x);
